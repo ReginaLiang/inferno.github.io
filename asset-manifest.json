@@ -1,0 +1,13 @@
+{
+  "main.css": "/my-inferno-app/static/css/main.5fb2ed42.chunk.css",
+  "main.js": "/my-inferno-app/static/js/main.dcbcc61e.chunk.js",
+  "main.js.map": "/my-inferno-app/static/js/main.dcbcc61e.chunk.js.map",
+  "runtime~main.js": "/my-inferno-app/static/js/runtime~main.5dae66f8.js",
+  "runtime~main.js.map": "/my-inferno-app/static/js/runtime~main.5dae66f8.js.map",
+  "static/js/2.7627e4c6.chunk.js": "/my-inferno-app/static/js/2.7627e4c6.chunk.js",
+  "static/js/2.7627e4c6.chunk.js.map": "/my-inferno-app/static/js/2.7627e4c6.chunk.js.map",
+  "index.html": "/my-inferno-app/index.html",
+  "precache-manifest.8cedf80d409699bc1c636591098b08e7.js": "/my-inferno-app/precache-manifest.8cedf80d409699bc1c636591098b08e7.js",
+  "service-worker.js": "/my-inferno-app/service-worker.js",
+  "static/css/main.5fb2ed42.chunk.css.map": "/my-inferno-app/static/css/main.5fb2ed42.chunk.css.map"
+}
